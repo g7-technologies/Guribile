@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/completed"
+          android:title="@string/completed_services"
+          android:icon="@drawable/ic_bubble_chart_black_24dp"/>
+    <item android:id="@+id/accepted"
+          android:title="@string/accepted_services"
+        android:icon="@drawable/ic_bubble_chart_black_24dp"/>
+    <item android:id="@+id/declined"
+          android:title="@string/declined_services"
+        android:icon="@drawable/ic_bubble_chart_black_24dp"/>
+    <item android:id="@+id/pending"
+          android:title="@string/pending_services"
+        android:icon="@drawable/ic_bubble_chart_black_24dp"/>
+    <item android:id="@+id/rating"
+        android:title="@string/rate_work"
+        android:icon="@drawable/ic_bubble_chart_black_24dp"/>
+</menu>

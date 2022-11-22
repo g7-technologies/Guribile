@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1082593784927",
+    "firebase_url": "https://guribilelast.firebaseio.com",
+    "project_id": "guribilelast",
+    "storage_bucket": "guribilelast.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082593784927:android:6170fe8052b8fd0a20d7ea",
+        "android_client_info": {
+          "package_name": "com.g7tech.guribile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082593784927-u85ggof25um8vlg8jsnim0rlion96fka.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.g7tech.guribile",
+            "certificate_hash": "f1f617a7340d9e51d7c6e232d4a73a62d1b07c7c"
+          }
+        },
+        {
+          "client_id": "1082593784927-nokjqg2noncjm276jst8sebi40ifuqii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2a-F8Pcow2rrOsIts3B2oGBvaxY5zSsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082593784927-nokjqg2noncjm276jst8sebi40ifuqii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
